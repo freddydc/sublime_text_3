@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"auto-save",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Django",
+		"Dockerfile Syntax Highlighting",
+		"DotENV",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeREPL",
+		"Terminal",
+		"Theme - Monokai Pro"
+	]
+}
