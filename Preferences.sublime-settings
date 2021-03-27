@@ -9,5 +9,5 @@
 	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": true,
-	"save_on_focus_lost": true
+	// "save_on_focus_lost": true
 }
